@@ -47,15 +47,6 @@ Pour lancer l'application Streamlit :
 uv run streamlit run app/main.py
 ```
 
-## Auteurs
-
-- [@FranckF](https://github.com/FranckF)
-- [@koffigaetan-adj](https://github.com/koffigaetan-adj)
-- [@Djouhratabet](https://github.com/Djouhratabet)
-- [@cmartineau15](https://github.com/cmartineau15)
-- [@farah2791](https://github.com/farah2791)
-  ---
-
 # Structure du projet
 
 ```text
