@@ -54,3 +54,62 @@ uv run streamlit run app/main.py
 - [@Djouhratabet](https://github.com/Djouhratabet)
 - [@cmartineau15](https://github.com/cmartineau15)
 - [@farah2791](https://github.com/farah2791)
+  ---
+
+# Structure du projet
+
+```text
+├── app/                # Application Streamlit
+├── assets/             # Images et ressources
+├── views/              # Pages de l'application
+├── notebooks/          # Analyses exploratoires (EDA)
+├── scripts/            # Scripts d'entraînement
+├── reports/            # Documentation technique
+├── data/               # Jeux de données
+├── models/             # Modèles entraînés
+└── README.md
+```
+
+---
+
+# Fonctionnalités
+
+- Prévision des admissions hospitalières
+- Analyse des séjours patients
+- Analyse logistique
+- Prédiction avec LightGBM et XGBoost
+- Tableau de bord interactif Streamlit
+- Visualisation des indicateurs clés
+- Aide à la décision hospitalière
+
+---
+
+# Jeux de données
+
+Le projet exploite plusieurs jeux de données simulés représentant :
+
+- Admissions hospitalières
+- Séjours patients
+- Diagnostics
+- Personnel médical
+- Lits disponibles
+- Stocks de médicaments
+- Équipements hospitaliers
+
+---
+
+# Résultats
+
+Le projet permet :
+
+- d'anticiper les pics d'activité ;
+- d'améliorer l'allocation des ressources ;
+- d'optimiser la gestion des lits ;
+- d'aider les responsables hospitaliers dans leurs décisions.
+
+---
+
+# Auteur
+
+Projet réalisé dans le cadre du MSc Strategic Project Management – Epitech Digital School.
+
